@@ -1,1 +1,1 @@
-"# all" 
+"# full-project" 
